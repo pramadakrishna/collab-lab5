@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+welcome by user 1
+=======
 welcome by user 2
+>>>>>>> 4c5572e3fc73b4010204ea14e4ef3fce35a0b567
